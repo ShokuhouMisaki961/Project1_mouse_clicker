@@ -1,0 +1,16 @@
+{
+  "hotkey_start": "<f6>",
+  "hotkey_stop": "<f7>",
+  "hotkey_capture": "<f8>",
+  "interval": "100",
+  "button": "left",
+  "times": "0",
+  "use_pos": false,
+  "pos_x": "0",
+  "pos_y": "0",
+  "topmost": true,
+  "smart_pause": true,
+  "return_mouse": true,
+  "win_width": 440,
+  "win_height": 640
+}
